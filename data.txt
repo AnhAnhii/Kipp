@@ -1,0 +1,1 @@
+query_id=AAER2gghAAAAABHaCCFeH87X&user=%7B%22id%22%3A554228241%2C%22first_name%22%3A%22Chan%22%2C%22last_name%22%3A%22Chan%22%2C%22username%22%3A%22ichanchann%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1724152747&hash=fcd105a32cbf9a30355ab29c776aeca531e16c601936570e602db0c08610e7bb
